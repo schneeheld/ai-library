@@ -10,6 +10,7 @@ A curated set of YouTube videos to help you stay current and confidently engage 
 | :-------------- |-------------:|:-------------:|
 | [What Sam Altman Doesn't Want You To Know](https://www.youtube.com/watch?v=l0K4XPu3Qhg)                           | Dec 19, 2025 | 14 min |
 | [The $20B Collapse of Chat GPT](https://www.youtube.com/watch?v=g7R3Elda4Eo)                                      |  Dec 9, 2025 | 13 min |
+| [Larry Ellison Keynote on Oracle's Vision and Strategy: Oracle AI World 2025](https://www.youtube.com/watch?v=4eCFmbX5rAQ) | Oct 14, 2025 | 1h 34min |
 
 
 ### Ethics
