@@ -1,4 +1,4 @@
-# AI Resources for Everyone
+# AI Library for Everyone
 
 This repository curates up-to-date, high-quality AI resources designed for the general public and non-technical audiences who want to stay informed about the fast-moving AI landscape.
 
