@@ -4,6 +4,7 @@ This repository curates up-to-date, high-quality AI resources designed for the g
 
 It is especially valuable for technology managers, project managers, product leaders, and IT directors who need state-of-the-art, practical AI awareness—without diving into code or research papers.
 
+[📌 Explore the resources](resources.md)
 
 ## Purpose
 

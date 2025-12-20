@@ -17,7 +17,8 @@ A curated set of YouTube videos to help you stay current and confidently engage 
 
 The "Elon Musk against Sam Altman" conflict centers on Musk's lawsuit accusing OpenAI and Altman of abandoning the original non-profit, open-source mission for profit, with Musk seeking to make OpenAI's AI public and suing after his demands for control were rejected when he left in 2018. You can find relevant legal filings like the complaint PDF at Courthouse News and Ars Technica, plus related court documents on CourtListener and articles discussing the legal battle and fallout.
 
+[Musk v. Altman (4:24-cv-04722)](https://www.courtlistener.com/docket/69013420/musk-v-altman)
+
 [Musk's Lawsuit Complaint (PDF)](https://www.courthousenews.com/wp-content/uploads/2024/02/musk-v-altman-openai-complaint-sf.pdf)
 
 [Musk's Second Amended Complaint (PDF)](https://cdn.arstechnica.net/wp-content/uploads/2025/08/Musk-v-Altman-Second-Amended-Complaint-5-22-25.pdf)
-
