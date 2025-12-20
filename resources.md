@@ -28,7 +28,7 @@ A curated set of YouTube videos to help you stay current and confidently engage 
 | [The ULTIMATE GPT-5 Guide 2025: How to Use Chat GPT-5 For Beginners](https://www.youtube.com/watch?v=n7gxTAwQ634) | Sep 12, 2025 | 37 min |
 | [10 Ways to Use ChatGPT So Well It Feels Illegal (Tutorial)](https://www.youtube.com/watch?v=Jg09XvHGHiQ)         |  Sep 4, 2025 | 22 min |
 | [Large Language Models Explained! How LLMs Work for Beginners!](https://www.youtube.com/watch?v=RhPKBmeYNuI)      | Feb 21, 2025 | 19 min |
-
+| [Large Language Models explained briefly](https://www.youtube.com/watch?v=LPZh9BOjkQs)                            | Nov 20, 2024 |  8 min |
 
 ## Elon Musk against Sam Altman
 
