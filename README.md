@@ -17,7 +17,7 @@ AI is evolving rapidly. This repo helps you:
 
 ## What You’ll Find
 
-- Videos & talks (easy to watch, non-technical)
+- [Videos & talks](resources.md) (easy to watch, non-technical)
 - Podcasts & interviews with AI leaders
 - Articles & explainers written for lay audiences
 - Big-picture insights on AI, society, business, and ethics
