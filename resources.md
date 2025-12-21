@@ -13,6 +13,7 @@ A curated set of YouTube videos to help you stay current and confidently engage 
 | [If the AI bubble pops, will the whole U.S. economy go with it?](https://www.youtube.com/watch?v=WwMSnpu-Fp0)     | Nov 24, 2025 | 10 min |
 | [7 AI Terms You Need to Know: Agents, RAG, ASI & More](https://www.youtube.com/watch?v=VSFuqMh4hus)               |  Sep 1, 2025 | 11 min |
 | [Larry Ellison Keynote on Oracle's Vision and Strategy: Oracle AI World 2025](https://www.youtube.com/watch?v=4eCFmbX5rAQ) | Oct 14, 2025 | 1h 34min |
+| [Generative AI in a Nutshell - how to survive and thrive in the age of AI](https://www.youtube.com/watch?v=2IK3DFHRFfw)    | Jan 20, 2024 | 18 min |
 
 
 ### Ethics
