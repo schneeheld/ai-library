@@ -31,6 +31,8 @@ A curated set of YouTube videos to help you stay current and confidently engage 
 | [10 Ways to Use ChatGPT So Well It Feels Illegal (Tutorial)](https://www.youtube.com/watch?v=Jg09XvHGHiQ)         |  Sep 4, 2025 | 22 min |
 | [Large Language Models Explained! How LLMs Work for Beginners!](https://www.youtube.com/watch?v=RhPKBmeYNuI)      | Feb 21, 2025 | 19 min |
 | [Large Language Models explained briefly](https://www.youtube.com/watch?v=LPZh9BOjkQs)                            | Nov 20, 2024 |  8 min |
+| [Transformers, the tech behind LLMs | Deep Learning Chapter 5](https://www.youtube.com/watch?v=wjZofJX0v4M)       |  Apr 1, 2024 | 27 min |
+
 
 ## Elon Musk against Sam Altman
 
