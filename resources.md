@@ -41,6 +41,12 @@ A curated set of YouTube videos to help you stay current and confidently engage 
 | [Transformers, the tech behind LLMs Deep Learning Chapter 5](https://www.youtube.com/watch?v=wjZofJX0v4M)         |  Apr 1, 2024 | 27 min |
 
 
+### Microsoft
+
+AI Agents for Beginners - A Course
+https://github.com/microsoft/ai-agents-for-beginners
+
+
 ## Elon Musk against Sam Altman
 
 The "Elon Musk against Sam Altman" conflict centers on Musk's lawsuit accusing OpenAI and Altman of abandoning the original non-profit, open-source mission for profit, with Musk seeking to make OpenAI's AI public and suing after his demands for control were rejected when he left in 2018. You can find relevant legal filings like the complaint PDF at Courthouse News and Ars Technica, plus related court documents on CourtListener and articles discussing the legal battle and fallout.
