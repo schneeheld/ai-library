@@ -41,10 +41,9 @@ A curated set of YouTube videos to help you stay current and confidently engage 
 | [Transformers, the tech behind LLMs Deep Learning Chapter 5](https://www.youtube.com/watch?v=wjZofJX0v4M)         |  Apr 1, 2024 | 27 min |
 
 
-### Microsoft
+## Courses
 
-AI Agents for Beginners - A Course
-https://github.com/microsoft/ai-agents-for-beginners
+[Microsoft / AI Agents for Beginners - A Course](https://github.com/microsoft/ai-agents-for-beginners)
 
 
 ## Elon Musk against Sam Altman
