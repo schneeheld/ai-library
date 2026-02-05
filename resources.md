@@ -9,6 +9,7 @@ A curated set of YouTube videos to help you stay current and confidently engage 
 | Description | Release date | Duration |
 | :-------------- |-------------:|:-------------:|
 | []() | | | |
+| [How LLMs Actually Generate Text](https://www.youtube.com/watch?v=NKnZYvZA7w4)                                    | Dec 27, 2025 |  9 min |
 | [What Sam Altman Doesn't Want You To Know](https://www.youtube.com/watch?v=l0K4XPu3Qhg)                           | Dec 19, 2025 | 14 min |
 | [The $20B Collapse of Chat GPT](https://www.youtube.com/watch?v=g7R3Elda4Eo)                                      |  Dec 9, 2025 | 13 min |
 | [If the AI bubble pops, will the whole U.S. economy go with it?](https://www.youtube.com/watch?v=WwMSnpu-Fp0)     | Nov 24, 2025 | 10 min |
